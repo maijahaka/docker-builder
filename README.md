@@ -16,6 +16,6 @@ If the optional parameters are not included, the GitHub username and the GitHub 
 
 The GitHub repository should contain a Dockerfile.
 
-The option "-it" is required for running interactive TTY, which will ask you to enter their Docker Hub credentials.
+The option "-it" is required for running interactive TTY, which will ask you to enter your Docker Hub credentials.
 
 The container communicates with the Docker daemon on the host machine through /var/run/docker.sock.
